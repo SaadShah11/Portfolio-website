@@ -1,0 +1,92 @@
+.main-container{
+    padding: 0.5rem;
+    margin: -8px;
+    color: white;
+}
+
+.body-bg-img {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("resources/images/img1.jpg");
+    background-attachment: fixed;
+}
+
+.pd-tb-4 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.para-two{
+    font-size: 1.2rem; 
+    line-height: 150%;
+}
+
+.one {
+    width: 50%;
+}
+
+.round-b {
+    border-radius: 3rem;
+    margin-top: -16rem;
+    margin-left: 8rem;
+}
+
+.mr-tb-4{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.mr-auto{
+    margin-right: auto;
+}
+
+.ml-auto{
+    margin-left: auto;
+}
+
+.mt-small{
+    margin-top: -15px;
+}
+
+.simple-para{
+    font-size: 1.5rem;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.round-nav {
+    background: #21afde;
+    border-radius: 3rem;
+    padding: 1rem;
+}
+
+button {
+    background-color: #21afde;
+    border-color: #21afde;
+    border-radius: 15px;
+    font-size: 1.3rem;
+    color: whitesmoke;
+}
+
+.pd-small{
+    padding: 0.5rem;
+}
+
+.hov:hover{
+    background-color: white;
+    border-radius: 12px;
+}
+
+.text-m{
+    font-size: 1.4rem;
+}
+
+.decoration-n{
+    text-decoration: none;
+}
+
